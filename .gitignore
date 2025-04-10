@@ -5,4 +5,4 @@ python/benchmark/*.json
 python/benchmark/*.html
 .venv
 .env
-
+.vscode
